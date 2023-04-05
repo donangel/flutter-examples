@@ -351,3 +351,7 @@ build/
 
 **/flutter_export_environment.sh
 **/.dart_tool
+animation_example/ios/Flutter/AppFrameworkInfo.plist
+animation_example/ios/Runner/Info.plist
+animation_example/ios/Runner.xcodeproj/project.pbxproj
+animation_example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
